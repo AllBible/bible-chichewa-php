@@ -1,0 +1,19 @@
+{
+    "name": "m2kdevelopments/bible-chichewa",
+    "description": "About Chichewa Bible php package: Access and integrate the Chichewa translation of the Bible into your PHP applications with ease. Simplify verse retrieval, text search, and more using this lightweight and versatile composer package.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "M2kDevelopments\\BibleChichewa\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "M2K Developments",
+            "email": "m2kdevelopments@gmail.com"
+        }
+    ], 
+    "minimum-stability": "stable",
+    "require": {}
+}
